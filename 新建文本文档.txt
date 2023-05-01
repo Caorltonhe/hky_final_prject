@@ -1,0 +1,69 @@
+learning rate = 0.003
+epochs:
+25 ckpt2
+30 ckpt
+35 ckpt3
+
+learning rate =0.004
+epochs:
+25 ckpt4
+30 ckp5
+35 ckpt6
+
+learning rate =0.005
+epochs:
+25 ckpt7
+30 ckp8
+35 ckpt9
+
+learning rate = 0.002
+epochs:
+25 ckpt10
+30 ckpt11
+35 ckpt12
+
+learning rate = 0.006
+epochs:
+25 ckpt13
+30 ckpt14
+35 ckpt15
+
+optimizer = tf.keras.optimizers.SGD(learning_rate=0.01, momentum=0.0, nesterov=False)
+epochs:
+35 ckpt16
+
+learning rate = 0.01
+epochs:
+35 ckpt17
+
+learning rate = 0.002
+35 ckpt19
+
+learning rate = 0.015
+35 ckpt20
+
+learning rate = 0.02
+35 ckpt21
+
+
+optimizer =tf.keras.optimizers.RMSprop(lr=0.001, rho=0.9, epsilon=None, decay=0.0)
+epochs:
+35 ckpt18
+
+learning rate = 0.002
+35 ckpt22
+
+learning rate = 0.003
+35 ckpt23
+
+learning rate = 0.004
+35 ckpt24
+
+learning rate = 0.005
+35 ckpt25
+
+learning rate = 0.006
+35 ckpt26
+
+learning rate = 0.007
+35 ckpt27

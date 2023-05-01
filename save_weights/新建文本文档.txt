@@ -1,0 +1,29 @@
+learning rate = 0.003
+epochs:
+25 ckpt2
+30 ckpt
+35 ckpt3
+
+learning rate =0.004
+epochs:
+25 ckpt4
+30 ckp5
+35 ckpt6
+
+learning rate =0.005
+epochs:
+25 ckpt7
+30 ckp8
+35 ckpt9
+
+learning rate = 0.002
+epochs:
+25 ckpt10
+30 ckpt11
+35 ckpt12
+
+learning rate = 0.006
+epochs:
+25 ckpt13
+30 ckpt14
+35 ckpt15
